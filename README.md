@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush-u01
 - 👀 I’m interested in coding, web devlopment, various api's and blockchain
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on web devlopment and blockchain related opensource projects, 
+-    I’m looking to collaborate on web devlopment and blockchain related opensource projects, 
 - 📫 How to reach me : instagram - ayushawesome.upadhyay
 
 <!---
