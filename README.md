@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayush-u01
+- 👋 Hi, I’m Ayush Upadhyay
 - 🌱 I’m currently pursuing B.tech from Netaji Subhas University of Technology, Delhi.
 - 👀 I’m interested in coding, web devlopment, various api's and blockchain
 
